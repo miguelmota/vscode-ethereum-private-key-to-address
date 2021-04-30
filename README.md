@@ -4,7 +4,7 @@
 
 ## Demo
 
-![demo](https://user-images.githubusercontent.com/168240/116671939-67e0cf00-a956-11eb-8f56-83bdb3a86b47.gif)
+![demo](https://user-images.githubusercontent.com/168240/116673139-dbcfa700-a957-11eb-9195-290ba73ae3dc.gif)
 
 ## License
 
